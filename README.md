@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Safia Ait Hammoud - AI & Data Engineering" width="100%" />
+<img src="banner (1).svg" alt="Safia Ait Hammoud - AI & Data Engineering" width="100%" />
 
 <a href="https://github.com/Safia-Ait-Hammoud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C6FF&center=true&vCenter=true&width=760&height=50&lines=Final-year+Software+Engineering+Student+%40+ENSA+Marrakech;Passionate+about+Data+Engineering+%26+applied+AI;From+raw+data+to+models+in+production;Looking+for+a+Data%2FAI+internship+%E2%80%94+Jan+2027" alt="Typing SVG" />
