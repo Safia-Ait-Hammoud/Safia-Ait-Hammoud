@@ -10,7 +10,7 @@
 
 <a href="http://linkedin.com/in/safia-ait-hammoud"><img src="https://img.shields.io/badge/LinkedIn-Safia_Ait_Hammoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:aithammouds@gmail.com"><img src="https://img.shields.io/badge/Email-aithammouds%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Marrakech-Morocco-C1272D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
 
 <br/>
 
