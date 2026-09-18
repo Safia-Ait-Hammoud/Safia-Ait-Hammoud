@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Safia Ait Hammoud - AI & Data Engineering" width="100%" />
+<img src="banner.svg" alt="Safia Ait Hammoud - AI & Data Engineering" width="100%" />
 
 <a href="https://github.com/Safia-Ait-Hammoud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C6FF&center=true&vCenter=true&width=760&height=50&lines=Final-year+Software+Engineering+Student+%40+ENSA+Marrakech;Passionate+about+Data+Engineering+%26+applied+AI;From+raw+data+to+models+in+production;Looking+for+a+Data%2FAI+internship+%E2%80%94+Jan+2027" alt="Typing SVG" />
@@ -34,21 +34,9 @@
 
 ## 🚀 What I build
 
-### 📊 Data engineering & analytics: my core strength
+### 📊 Data engineering & analytics:
 
 <table>
-  <tr>
-    <td colspan="3" valign="top">
-      <h3>✈️ Flight-delay analytics · Marrakech Menara Airport <sub>(internship, Aug 2025)</sub></h3>
-      An end-to-end data project, from raw flight records to decision-ready insights:
-      <ul>
-        <li>🔄 Designed an <b>ETL pipeline</b> to collect, clean and structure flight data for delay analysis</li>
-        <li>📈 Built an <b>interactive Power BI dashboard</b> to track the key delay indicators (KPIs)</li>
-        <li>🧰 <b>Python · Pandas · NumPy · Power BI · Jupyter Notebook</b></li>
-        <li>👉 <a href="https://github.com/Safia-Ait-Hammoud/FlightDelays_ETL_Dashboard">FlightDelays_ETL_Dashboard</a></li>
-      </ul>
-    </td>
-  </tr>
   <tr>
     <td width="33%" valign="top">
       <h3>🔄 Data pipelines</h3>
