@@ -25,7 +25,6 @@
 ## 👩‍💻 About me
 
 - 🎓 **Final-year Software Engineering student** at **ENSA Marrakech** (National School of Applied Sciences)
-- 📊 Strong in **data processing**: collecting, cleaning, structuring and visualizing data, from ETL pipelines to BI dashboards
 - 🤖 I build AI applications **end to end**: from raw data to the user interface, from model evaluation to production monitoring
 - 🏢 **3 internships** and several full projects: flight-delay analytics, RAG assistant, NLP chatbots, real-time fraud detection, intelligent HR platform
 - 🎯 **Looking for an end-of-studies internship (PFE) starting January 2027**, primarily in Data / AI
@@ -44,11 +43,11 @@
     </td>
     <td width="33%" valign="top">
       <h3>⚡ Real-time streaming</h3>
-      Live data ingestion with <b>Apache Kafka</b>, processing with <b>Spark</b> and storage in <b>BigQuery</b>, visualized in <b>Grafana</b>. See <a href="https://github.com/Safia-Ait-Hammoud/fraud-detection-realtime">fraud-detection-realtime</a>.
+      Live data ingestion with <b>Apache Kafka</b>, processing with <b>Spark</b> and storage in <b>BigQuery</b>. See <a href="https://github.com/Safia-Ait-Hammoud/fraud-detection-realtime">fraud-detection-realtime</a>.
     </td>
     <td width="33%" valign="top">
       <h3>📈 BI & dashboards</h3>
-      Turning raw indicators into clear dashboards with <b>Power BI</b> and <b>Grafana</b>, so non-technical teams can monitor and decide.
+      Turning raw indicators into clear dashboards with <b>Power BI</b> , so non-technical teams can monitor and decide.
     </td>
   </tr>
 </table>
